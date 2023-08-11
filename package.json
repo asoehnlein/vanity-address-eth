@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "cluster": "^0.7.7",
+    "crypto": "^1.0.1",
+    "fs": "^0.0.1-security",
+    "keccak": "^3.0.3",
+    "minimist": "^1.2.8",
+    "os": "^0.1.2",
+    "secp256k1": "^5.0.0"
+  }
+}

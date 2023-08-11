@@ -1,0 +1,12 @@
+node_modules
+.env
+coverage
+coverage.json
+typechain
+yarn.lock
+package-lock.json
+vanity-address.txt
+
+#Hardhat files
+cache
+artifacts
